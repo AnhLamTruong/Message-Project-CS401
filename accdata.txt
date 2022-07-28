@@ -1,0 +1,4 @@
+god,pass,Boot,Bui,nicky@gmail.com,7033785547,user
+test,pass,test,t,test@email.com,5719261010,user
+yay,pass,Happy,Bui,nick@yahoo.com,5719260117,user
+Anh,admin,test,Truong,lama122001@gmail.com,5719260117,admin
